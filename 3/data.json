@@ -1,0 +1,75 @@
+{
+    "population": [
+        {
+            "prv_code": 1,
+            "province": "สมุทรปราการ",
+            "sector_code": 2,
+            "male": 634679,
+            "femail": 691929
+        },
+        {
+            "prv_code": 2,
+            "province": "พระนครศรีอยุธยา",
+            "sector_code": 2,
+            "male": 393570,
+            "femail": 423871
+        },
+        {
+            "prv_code": 3,
+            "province": "เชียงใหม่",
+            "sector_code": 3,
+            "male": 855105,
+            "femail": 908637
+        },
+        {
+            "prv_code": 4,
+            "province": "เชียงราย",
+            "sector_code": 3,
+            "male": 630221,
+            "femail": 661909
+        },
+        {
+            "prv_code": 5,
+            "province": "ขอนแก่น",
+            "sector_code": 4,
+            "male": 889505,
+            "femail": 916390
+        },
+        {
+            "prv_code": 6,
+            "province": "นครราชสีมา",
+            "sector_code": 4,
+            "male": 1303951,
+            "femail": 1342450
+        },
+        {
+            "prv_code": 7,
+            "province": "อุบลราชธานี",
+            "sector_code": 4,
+            "male": 937766,
+            "femail": 936782
+        }
+    ],
+    "sector": [
+        {
+            "sector_code": 1,
+            "sector_desc": "กรุงเทพมหานคร"
+        },
+        {
+            "sector_code": 2,
+            "sector_desc": "ภาคกลาง"
+        },
+        {
+            "sector_code": 3,
+            "sector_desc": "ภาคเหนือ"
+        },
+        {
+            "sector_code": 4,
+            "sector_desc": "ภาคตะวันออกเฉียงเหนือ"
+        },
+        {
+            "sector_code": 5,
+            "sector_desc": "ภาคใต้"
+        }
+    ]
+}
